@@ -1,0 +1,32 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
+  </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="ShowContent" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+</keymap>
