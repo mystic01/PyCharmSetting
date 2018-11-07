@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/Python/PythonExercise/PythonExercise/Parser.py" timestamp="1541429275303">
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541429235732">
+      <file name="/Dummy.txt" timestamp="1541598041111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1541595515425">
@@ -53,11 +53,23 @@
         <mark key="." line="30" column="0" />
         <mark key="o" line="28" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/Python/TennisGameKata/TennisGameKata2/tennis_game.py" timestamp="1541597993058">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Python/PythonExercise/PythonExercise/modbus_serial_manager.py" timestamp="1541319970425">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="7" />
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Python/TennisGameKata/TennisGameKata2/test_tennis_game.py" timestamp="1541598169400">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -67,40 +79,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkxvdmUgQWxsIgo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuZmlyc3RfcGxheWVyX3Njb3JlID09IHNlbGYuc2Vjb25kX3BsYXllcl9zY29yZToK</text>
+      <register name="&quot;" type="4">
+        <text>love all</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUZW5uaXNHYW1lKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuZmlyc3RfcGxheWVyX3Njb3JlID09IDI6CiAgICAgICAgICAgIHJldHVybiAiVGhpcnR5IExvdmUiCiAgICAgICAgZWxpZiBzZWxmLmZpcnN0X3BsYXllcl9zY29yZSA9PSAzOgogICAgICAgICAgICByZXR1cm4gIkZvcnR5IExvdmUiCg==</text>
+        <text encoding="base64">Y2xhc3MgVGVubmlzR2FtZToKICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmZpcnN0X3BsYXllcl9zY29yZSA9PSAxOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkxvdmUgQWxsIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhbWUuZmlyc3RfcGxheWVyX3Njb3JlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5fX2luaXRfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuZmlyc3RfcGxheWVyX3Njb3JlID09IHNlbGYuc2Vjb25kX3BsYXllcl9zY29yZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGFjdHVhbCwgIkZpZnRlZW4gTG92ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action IntroduceParameter</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>love all</text>
       </register>
     </registers>
     <search>
@@ -116,6 +128,8 @@
         <entry>action EditorLeftWithSelection</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action IntroduceParameter</entry>
+        <entry>ChangesView.Commit</entry>
+        <entry>action ChangesView.Commit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
