@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/Python/PythonExercise/PythonExercise/Parser.py" timestamp="1541429275303">
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541598041111">
+      <file name="/Dummy.txt" timestamp="1541605588293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1541595515425">
@@ -20,6 +20,9 @@
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
+      </file>
+      <file name="/a.dummy" timestamp="1541601192925">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Python/TennisGameKata1/test_tennis_game.py" timestamp="1541521302336">
         <mark key="w" line="10" column="8" />
@@ -53,11 +56,11 @@
         <mark key="." line="30" column="0" />
         <mark key="o" line="28" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Python/TennisGameKata/TennisGameKata2/tennis_game.py" timestamp="1541597993058">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/Documents/Python/TennisGameKata/TennisGameKata2/tennis_game.py" timestamp="1541605585103">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/Python/PythonExercise/PythonExercise/modbus_serial_manager.py" timestamp="1541319970425">
         <mark key="[" line="17" column="8" />
@@ -65,11 +68,13 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Python/TennisGameKata/TennisGameKata2/test_tennis_game.py" timestamp="1541598169400">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+      <file name="$USER_HOME$/Documents/Python/TennisGameKata/TennisGameKata2/test_tennis_game.py" timestamp="1541605084988">
+        <mark key="z" line="11" column="53" />
+        <mark key="j" line="11" column="8" />
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="36" />
+        <mark key="^" line="56" column="34" />
+        <mark key="." line="57" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -79,40 +84,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWFkeV90b193aW5fc2NvcmUoKSBpZiBzZWxmLmlzX3JlYWR5X3RvX3dpbigpIGVsc2Ugc2VsZi5ub3JtYWxfc2NvcmUoKSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>love all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZWFkeV90b193aW5fc2NvcmUoKSBpZiBzZWxmLmlzX3JlYWR5X3RvX3dpbigpIGVsc2Ugc2VsZi5ub3JtYWxfc2NvcmUoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmlzX2RldWNlKCk6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmRldWNlX3Njb3JlKCkKICAgICAgICByZXR1cm4gc2VsZi5zYW1lX3Njb3JlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZW5uaXNHYW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19yZWFkeV90b193aW4oKToKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnJlYWR5X3RvX3dpbl9zY29yZSgpCiAgICAgICAgICAgIHJldHVybiBzZWxmLm5vcm1hbF9zY29yZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYuaXNfYWR2KCk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuYWR2X3BsYXllcigpICsgIiBhZHYiCiAgICAgICAgICAgICAgICByZXR1cm4gc2VsZi5hZHZfcGxheWVyKCkgKyAiIHdpbiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVGVubmlzR2FtZToKICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIkxvdmUgQWxsIgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RldWNlXzRfNChzZWxmKToKICAgICAgICBzZWxmLmZpcnN0X3BsYXllcl9zY29yZWQoNCkKICAgICAgICBzZWxmLnNlY29uZF9wbGF5ZXJfc2NvcmVkKDQpCiAgICAgICAgc2VsZi5zY29yZV9zaG91bGRfYmUoImRldWNlIikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuZmlyc3RfcGxheWVyX3Njb3JlID09IHNlbGYuc2Vjb25kX3BsYXllcl9zY29yZToK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHNlbGYuc2Vjb25kX3BsYXllcl9zY29yZSA+IDA6CiAgICAgICAgICAgIHJldHVybiAibG92ZSAiICsgc2VsZi5zY29yZV9sb29rdXBbc2VsZi5zZWNvbmRfcGxheWVyX3Njb3JlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlY29uZF9wbGF5ZXJfc2NvcmVkKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceParameter</text>
+        <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>love all</text>
+        <text>adv</text>
       </register>
     </registers>
     <search>
@@ -124,12 +129,12 @@
       <history-cmd>
         <entry>action RerunTests</entry>
         <entry>action Inline</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action IntroduceParameter</entry>
         <entry>ChangesView.Commit</entry>
         <entry>action ChangesView.Commit</entry>
+        <entry>action IntroduceParameter</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />

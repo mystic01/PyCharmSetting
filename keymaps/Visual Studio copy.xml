@@ -19,13 +19,25 @@
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="GotoLine" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
   </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl f" />
+  </action>
   <action id="IntroduceParameter">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
@@ -39,9 +51,21 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="a" />
   </action>
   <action id="ShowContent" />
   <action id="XDebugger.MoveWatchDown" />
